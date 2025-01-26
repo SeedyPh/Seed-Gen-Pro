@@ -25,5 +25,5 @@ We welcome community feedback and suggestions. Please submit an issue for any bu
 
 ## Downloads:
 
-[**SeedGen Pro (Windows)**]()
+[**SeedGen Pro (Windows)**](https://seedyph.github.io/Seed-Gen-Pro/)
 
